@@ -1,2 +1,3 @@
 # SDA_PROJEKT2
 ...
+![alt text](/screenshots/zad_1_2_3.png)
